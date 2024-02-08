@@ -17,7 +17,15 @@ Through this application, search for the location and then copy the coordinates 
 
 ## Screenshots
 
-<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101840_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101906_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101840_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101906_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101846_webgmap.png" height="300em" />
 
-<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101915_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101919_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101922_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101926_webgmap.png" height="300em" /><img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101929_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101919_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101922_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101911_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101926_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101915_webgmap.png" height="300em" />
 
