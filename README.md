@@ -17,7 +17,7 @@ Through this application, search for the location and then copy the coordinates 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png)
+![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png;https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png)
 
 ![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png)
 
