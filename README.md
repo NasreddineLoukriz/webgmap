@@ -17,22 +17,16 @@ Through this application, search for the location and then copy the coordinates 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png;https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png)
 
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png)
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101829_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101840_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101906_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png" height="300em" />
 
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101840_webgmap.png)
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101915_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101919_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101922_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101926_webgmap.png" height="300em" />
+<img src="https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101929_webgmap.png" height="300em" />
 
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101906_webgmap.png)
-
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101820_webgmap.png)
-
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101915_webgmap.png)
-
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101919_webgmap.png)
-
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101922_webgmap.png)
-
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101926_webgmap.png)
-
-![App Screenshot](https://github.com/NasreddineLoukriz/webgmap/blob/main/Pictures/Screenshot_20240208-101929_webgmap.png)
